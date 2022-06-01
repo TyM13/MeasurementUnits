@@ -29,3 +29,29 @@ padding: 30px 50px;
     
     background-color: tomato;
 }
+
+h1{
+font-size: 12rem;
+}
+
+p{
+font-size: 8em;
+}
+
+#div_7{
+background-color: darkolivegreen;
+width: 7vh;
+height: 3vh;
+}
+
+#div_8{
+background-color: coral;
+width: 20vw;
+height: 30vw;
+}
+
+#div_9{
+background-color: fuchsia;
+width: 60%;
+    height: 40%;
+}
